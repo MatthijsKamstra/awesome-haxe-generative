@@ -13,6 +13,9 @@ A collection of awesome Haxe generative libraries, resources and shiny things.
 
 - [hx-quicksettings](https://github.com/markknol/hx-quicksettings) Haxe extern classes for [quicksettings](https://github.com/bit101/quicksettings)
 
+# Processing 
+
+- [hxProcessing](https://github.com/andyli/hxProcessing) Use Processing in Haxe's Java target
 
 # Color
 
