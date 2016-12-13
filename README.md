@@ -19,6 +19,17 @@ A collection of awesome Haxe generative libraries, resources and shiny things.
 - [thx.color](https://github.com/fponticelli/thx.color) General purpose color library for Haxe
 
 
+# Contents
+
+- [generative-grammar](https://github.com/anissen/generative-grammar) Parser and generator for a simple generative grammar. 
+- [traceryhx](https://github.com/chiguire/traceryhx) A story-grammar generation library.
+
+
+# Noise
+
+- [libnoise](https://github.com/memilian/libnoise) A Haxe port of libnoise, the coherent noise library. 
+
+
 # Pattern
 
 - [hxDelaunay](https://github.com/azrafe7/hxDelaunay) Delaunay triangulations, Voronoi, convex hull and more. 
