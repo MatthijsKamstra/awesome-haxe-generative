@@ -17,7 +17,7 @@ A collection of awesome Haxe generative libraries, resources and shiny things.
 # Color
 
 - [thx.color](https://github.com/fponticelli/thx.color) General purpose color library for Haxe
-
+- [hxColorToolkit](https://github.com/andyli/hxColorToolkit) Haxe library for color conversion and color scheme generation.
 
 # Contents
 
@@ -25,10 +25,10 @@ A collection of awesome Haxe generative libraries, resources and shiny things.
 - [traceryhx](https://github.com/chiguire/traceryhx) A story-grammar generation library.
 
 
-# Noise
+# Noise / Random
 
 - [libnoise](https://github.com/memilian/libnoise) A Haxe port of libnoise, the coherent noise library. 
-
+- [hxrandom](https://github.com/jasononeil/hxrandom) Extremely simple helper library to easy picking random numbers in Haxe.
 
 # Pattern
 
