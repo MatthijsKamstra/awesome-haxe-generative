@@ -2,11 +2,14 @@
 A collection of awesome Haxe generative libraries, resources and shiny things.
 
 
-![](img/generative.png)
+[![](img/generative.png)](https://en.wikipedia.org/wiki/Generative)
 
 
-[Generative art](https://en.wikipedia.org/wiki/Generative_art)
+Like [generative art](https://en.wikipedia.org/wiki/Generative_art), [generative music](https://en.wikipedia.org/wiki/Generative_music) or other forms of [generative](https://en.wikipedia.org/wiki/Generative) (even if they are not mentioned)
 
+
+Everybody is allowed to contribute, if they are "attracted" by the word **Generative**.
+Any library that serves a purpose in your work, are allowed to be mentioned here. If you are the maintainer of the library a working example would be appreciated. If you worked with a library in your work, a snippet of code will be appreciated.
 
 
 # Prototype JavaScript
