@@ -62,6 +62,13 @@ If you think this is untrue.... Please let us know!
  - [voronoi-map-haxe](https://github.com/rjanicek/voronoi-map-haxe) Haxe port of Amit Patel's mapgen2, a procedural terrain / map generator.
  - [HxAudioTools](https://github.com/cambiata/HxAudioTools) A toolbox for basic audio manipulation in Haxe.
  - [hxdsquare](https://github.com/degrav/hxdsquare) Haxe implementation of the Diamond Square algorithm
-
  - [MAN-haxe](https://github.com/gamepopper/MAN-Haxe) A set of Maze and Noise algorithm classes that can generate 2D array or string maps.
+- [RectanglePacking](https://github.com/jarkkosyrjala/RectanglePacking.hx) Haxe port of Super fast AS3 implementation of rectangle packing algorithm <http://villekoskela.org>
+- [Rectangle-Bin-Packing](https://github.com/Tw1ddle/Rectangle-Bin-Packing) Haxe algorithms for 2D rectangular bin packing <http://samcodes.co.uk/code/>
+- [hxDaedalus](https://github.com/hxDaedalus/hxDaedalus) Daedalus-lib Haxe version
 
+# Inspirational libs
+
+This has nothing to do with Haxe, but probably an awesome place to get inspiration
+
+- [color-wander](https://github.com/mattdesl/color-wander) Generative artwork in node/browser based on a seeded random <http://color-wander.surge.sh/>
