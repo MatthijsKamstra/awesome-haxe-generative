@@ -41,6 +41,7 @@ For now we have a list with "**Unconfirmed libs**". That is a list of libs that 
 - [libnoise](https://github.com/memilian/libnoise) A Haxe port of libnoise, the coherent noise library. 
 - [hxrandom](https://github.com/jasononeil/hxrandom) Extremely simple helper library to easy picking random numbers in Haxe.
 - [thx.math](https://github.com/fponticelli/thx.math) Math helper library.
+- [hxNoise](https://github.com/whuop/hxNoise) A collection of noise functions for Haxe. Has no dependencies to other libraries.
 
 # Pattern
 
